@@ -1,6 +1,6 @@
 ---
 title: Optimize AWS workloads faster, with one-step instrumentation and full stack observability 
-summary: 'simplified instrumentation, pre-built dashboards and automatic correlation across your AWS environment.'
+summary: 'Simplified instrumentation, pre-built dashboards and automatic correlation across your AWS environment.'
 releaseDate: '2023-08-15'
 getStartedLink: 'https://docs.newrelic.com/docs/infrastructure/amazon-integrations/get-started/introduction-aws-integrations/' 
 ---
@@ -21,7 +21,7 @@ New Relic’s intelligent observability platform gives you one place to correlat
   
 - [**Automatic relationship discovery and mapping:**](https://docs.newrelic.com/docs/new-relic-solutions/new-relic-one/ui-data/service-maps/service-maps/) Understand the dependencies across applications and AWS infrastructure.
 
-Watch the Databyte to learn more '....'
+[Watch the Databyte to learn more.](https://youtu.be/54skgSenvHE)
 
 
 ![A screenshot showing the new onboarding option with cloudformation template and multi-cloud observability.](./images/filename.png "A screenshot showing the new onboarding option with cloudformation template and multi-cloud observability.")
